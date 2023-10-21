@@ -14,8 +14,10 @@ body{
 h1{
     text-align: center;
 }
-img{
-    width: 100%;
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    weight: 100%;
     height: auto;
-    text-align: center;
 }
