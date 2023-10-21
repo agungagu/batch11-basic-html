@@ -1,7 +1,18 @@
-p{
-    text-align: justify;
+.biografi{
+    /*margin-top: 10px;      /* Margin atas */
+   /* margin-bottom: 10px;   /* Margin bawah */
+   /* margin-left: 20px;     /* Margin kiri */
+    margin: auto;    /* Margin kanan */
+    padding: 10px;         /* Padding dalam paragraf */
+    text-align: justify;  /* Ratakan teks ke kiri dan kanan */
+    line-height: 1.5;     /* Jarak antara baris 1.5x ukuran font */
+    max-width: 500px;
+}
+h1{
+    text-align: center;
 }
 img{
     width: 50%;
     height: auto;
+    text-align: center;
 }
