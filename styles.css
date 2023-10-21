@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(206, 209, 207);
+}
 .biografi{
     /*margin-top: 10px;      /* Margin atas */
    /* margin-bottom: 10px;   /* Margin bawah */
@@ -12,7 +15,7 @@ h1{
     text-align: center;
 }
 img{
-    width: 50%;
+    width: 100%;
     height: auto;
     text-align: center;
 }
